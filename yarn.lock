@@ -1701,10 +1701,10 @@
     "posthtml-parser" "^0.11.0"
     "posthtml-render" "^3.0.0"
 
-"preact@^10.6.2":
-  "integrity" "sha512-ppDjurt75nSxyikpyali+uKwRl8CK9N6ntOPovGIEGQagjMLVzEgVqFEsUUyUrqyE9Ch90KE0jmFc9q2QcPLBA=="
-  "resolved" "https://registry.npmjs.org/preact/-/preact-10.6.2.tgz"
-  "version" "10.6.2"
+"preact@^10.7.2":
+  "integrity" "sha512-GLjn0I3r6ka+NvxJUppsVFqb4V0qDTEHT/QxHlidPuClGaxF/4AI2Qti4a0cv3XMh5n1+D3hLScW10LRIm5msQ=="
+  "resolved" "https://registry.npmjs.org/preact/-/preact-10.7.2.tgz"
+  "version" "10.7.2"
 
 "process@^0.11.10":
   "integrity" "sha1-czIwDoQBYb2j5podHZGn1LwW8YI="
@@ -1734,10 +1734,10 @@
   "resolved" "https://registry.npmjs.org/ramda/-/ramda-0.25.0.tgz"
   "version" "0.25.0"
 
-"ramda@^0.27.1":
-  "integrity" "sha512-PgIdVpn5y5Yns8vqb8FzBUEYn98V3xcPgawAkkgj0YJ0qDsnHCiNmZYfOGMgOvoB0eWFLpYbhxUR3mxfDIMvpw=="
-  "resolved" "https://registry.npmjs.org/ramda/-/ramda-0.27.1.tgz"
-  "version" "0.27.1"
+"ramda@^0.28.0":
+  "integrity" "sha512-9QnLuG/kPVgWvMQ4aODhsBUFKOUmnbUnsSXACv+NCQZcHbeb+v8Lodp8OVxtRULN1/xOyYLLaL6npE6dMq5QTA=="
+  "resolved" "https://registry.npmjs.org/ramda/-/ramda-0.28.0.tgz"
+  "version" "0.28.0"
 
 "range-parser@~1.2.0":
   "integrity" "sha1-9JvmtIeJTdxA3MlKMi9hEJLgDV4="

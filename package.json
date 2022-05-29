@@ -15,7 +15,7 @@
   "dependencies": {
     "flyd": "^0.2.8",
     "global": "^4.4.0",
-    "preact": "^10.6.2",
-    "ramda": "^0.27.1"
+    "preact": "^10.7.2",
+    "ramda": "^0.28.0"
   }
 }
