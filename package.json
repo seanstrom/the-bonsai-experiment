@@ -7,10 +7,10 @@
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/plugin-transform-react-jsx": "^7.16.0",
+    "@babel/core": "^7.18.2",
+    "@babel/plugin-transform-react-jsx": "^7.17.12",
     "bundle-analyzer": "^0.0.6",
-    "parcel": "^2.0.0"
+    "parcel": "^2.6.0"
   },
   "dependencies": {
     "flyd": "^0.2.8",
